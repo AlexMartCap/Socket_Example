@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/alex/M9_Socket/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/alex/M9_Socket/app/build/intermediates/pre-dexed/debug/classes-dd46c836a5c309ab33243a24f9d01e59361c22cd.jar" />
+    </item>
+    <item
+        jar="/home/alex/M9_Socket/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/alex/M9_Socket/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-8a9bbf5f2aa216f49021d12485c74378a490122f.jar" />
+    </item>
+    <item
+        jar="/home/alex/adt-bundle-linux-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/alex/M9_Socket/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-ae06c358c781a307441432b7a7a53887cb6c1246.jar" />
+    </item>
+    <item
+        jar="/home/alex/M9_Socket/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/alex/M9_Socket/app/build/intermediates/pre-dexed/debug/classes-d9e87001d6b15798e5ffb5c72a4cf738402b2d9c.jar" />
+    </item>
+
+</items>
